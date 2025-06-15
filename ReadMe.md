@@ -1,4 +1,5 @@
- 💫 About Me:
+💫 About Me:
+ 
 Hello! I'm Mohammed Rahees, currently pursuing my Bachelor of Computer Applications (BCA). I'm passionate about web development and continuously exploring new technologies to improve my skills.
 
 I'm currently doing my internship at Bridgeon Solutions, Kozhikode, where I'm gaining hands-on experience in real-world projects and enhancing both my technical and problem-solving abilities.
